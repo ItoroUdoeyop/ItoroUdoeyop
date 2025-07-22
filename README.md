@@ -2,7 +2,6 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on web projects
-- 📫 How to reach me [www.facebook.com/profile.php?id=61550667314234](https://www.facebook.com/profile.php?id=61550667314234)
 - https://wa.link/pe2bdq
 - https://twitter.com/Aii_teee
 
