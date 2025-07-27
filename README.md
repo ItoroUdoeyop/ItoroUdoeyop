@@ -10,8 +10,7 @@
 - Scikit-learn, TensorFlow
 - Jupyter Notebooks, Git, GitHub, Google Colab
 
-## 📂 Featured Projects
-- [🚘 Automobile Fault Diagnostic Chatbot](https://github.com/ItoroUdoeyop/automobile-fault-diagnostic-chatbot)  
+## 📂 Featured Projects 
 - [🏨 Hotel Booking Demand Analysis](https://github.com/ItoroUdoeyop/hotel-booking-demand-analysis)  
 - [🏠 House Price Predictor](https://github.com/ItoroUdoeyop/house-price-predictor)  
 - [🎬 Fandango Movie Ratings Bias Analysis](https://github.com/ItoroUdoeyop/fandango-movie-ratings-bias)
