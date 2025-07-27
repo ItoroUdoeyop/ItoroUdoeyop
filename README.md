@@ -1,11 +1,23 @@
-- 👋 Hi, I’m @ItoroUdoeyop
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on web projects
-- https://wa.link/pe2bdq
-- https://twitter.com/Aii_teee
+# 👋 Hi, I'm Itoro Udoeyop
 
-<!---
-ItoroUdoeyop/ItoroUdoeyop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Aspiring Data Scientist passionate about using data to solve real-world problems.  
+📊 Strong in Python, EDA, Machine Learning, NLP, and data visualization.  
+💻 Currently building projects in predictive modeling and AI-powered automation.  
+🚀 Open to remote data science internships and collaborations.
+
+## 🛠️ Skills
+- Python, Pandas, NumPy, Matplotlib, Seaborn
+- Scikit-learn, TensorFlow
+- Jupyter Notebooks, Git, GitHub, Google Colab
+
+## 📂 Featured Projects
+- [🚘 Automobile Fault Diagnostic Chatbot](https://github.com/ItoroUdoeyop/automobile-fault-diagnostic-chatbot)  
+- [🏨 Hotel Booking Demand Analysis](https://github.com/ItoroUdoeyop/hotel-booking-demand-analysis)  
+- [🏠 House Price Predictor](https://github.com/ItoroUdoeyop/house-price-predictor)  
+- [🎬 Fandango Movie Ratings Bias Analysis](https://github.com/ItoroUdoeyop/fandango-movie-ratings-bias)
+
+---
+
+📫 **Let's connect**:  
+[LinkedIn](https://www.linkedin.com/in/itoro-udoeyop-4b9851240) | [GitHub](https://github.com/ItoroUdoeyop)
+
